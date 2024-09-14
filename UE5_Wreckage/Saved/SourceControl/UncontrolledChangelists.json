@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/BP_Projectile.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/Warehouse.umap",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01_Blueprint.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/BP_Boxes.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/BP_Pallet.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/Ammo_UI.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/BP_Barrel.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/Warehouse_GM.uasset",
+				"D:/Unreal Engine Games/Wreckage/wreckage/UE5_Wreckage/Content/StarterContent/Maps/BP_Projectile.uasset"
+			]
+		}
+	]
+}
